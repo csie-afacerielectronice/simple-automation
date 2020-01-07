@@ -32,3 +32,7 @@ remove proxy
 npm config rm proxy
 npm config rm https-proxy
 `
+```
+git config --global http.proxy http://cache.ase.ro:8080
+git config --global https.proxy http://cache.ase.ro:8080
+```
