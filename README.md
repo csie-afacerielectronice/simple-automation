@@ -4,7 +4,7 @@ Testing website journeys and prices
 
 # Requirements
 
-* NodeJS >= 8
+* NodeJS >= 10
 * NPM
 * Chromium (automaticaly installed by pupetter)
 
@@ -12,7 +12,7 @@ Testing website journeys and prices
 
 1. Clone the repo
 ```bash
-git clone https://gitlab.com/eduard.budacu/tlkm-automated-tests
+git clone https://github.com/csie-afacerielectronice/journey-automation
 ```
 
 2. Install dependencies
