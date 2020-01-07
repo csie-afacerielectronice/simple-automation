@@ -20,3 +20,15 @@ git clone https://github.com/csie-afacerielectronice/journey-automation
 ```bash
 npm install
 ```
+
+in case proxy setup is needed
+
+```
+npm config set proxy http://cache.ase.ro:8080
+npm config set https-proxy http://cache.ase.ro:8080
+```
+remove proxy
+```
+npm config rm proxy
+npm config rm https-proxy
+`
