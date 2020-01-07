@@ -1,4 +1,4 @@
-# tlkm-automated-tests
+# journey-automation
 
 Testing website journeys and prices
 
