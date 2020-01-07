@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "excel-as-json": "^2.0.2",
+    "puppeteer": "^1.14.0"
+  }
+}
